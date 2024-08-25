@@ -1,0 +1,52 @@
+body {
+    background-color: bisque;
+}
+h2 {
+    text-align: center;
+    color: blue;
+    font-size: xx-large;
+}
+.input-group1 {
+    text-align: left;
+    font-size: larger;
+    padding: 20px;
+    color: green;
+}
+.input-group2 {
+    text-align: left;
+    font-size: larger;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.input-group3 {
+    text-align: left;
+    font-size: x-small;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.input-group4 {
+    text-align: left;
+    font-size: larger;
+    padding: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.input-group5 {
+    text-align: center;
+    font-size: larger;
+    padding: 20px;
+}
+.input-group6 {
+    text-align: right;
+    padding: 20px;
+}
+.input-group7 {
+    text-align: left;
+    font-size: x-large;
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button {
+    text-align: center;
+    font-size: larger;
+    background-color: red;
+}
